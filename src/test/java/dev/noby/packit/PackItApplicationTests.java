@@ -1,13 +1,12 @@
-package dev.noby.pedidos360;
+package dev.noby.packit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Pedidos360ApplicationTests {
+class PackItApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
-
+    @Test
+    void contextLoads() {
+    }
 }
